@@ -1,0 +1,324 @@
+Germinated,Survived_to_experiment_end,Block_in_greenhouse,Side_of_table,Row_on_table,Role_in_experiment,Role,Seedling_species,Focal,Mg_dry_wt_at_experiment_end,Species_of_impact,Type_of_impact
+1,1,1,S,X,A,D,PV,NF,447.3,Parkinsonia,Leachate Donor
+1,1,1,S,Y,B,D,BG,NF,335.5,Pennisetum,Leachate Donor
+1,1,1,S,X,A,P,PV,F,125.3,Parkinsonia,Competition
+1,1,1,S,X,A,P,PV,NF,201.5,Parkinsonia,Competition
+1,1,1,S,Y,B,P,PV,F,43.1,Pennisetum,Competition
+0,NA,1,S,Y,B,P,BG,NF,205.4,Pennisetum,Competition
+1,0,1,S,Z,C,P,PV,F,45.1,Control,Competition
+1,1,1,S,X,A,R,PV,F,102.2,Parkinsonia,Leachate
+1,1,1,S,Y,B,R,PV,F,42.8,Pennisetum,Leachate
+1,1,1,S,Z,C,R,PV,F,79.5,Control,Leachate
+1,1,2,S,X,B,D,BG,NF,836.6,Pennisetum,Leachate Donor
+1,1,2,S,Z,A,D,PV,NF,444.7,Parkinsonia,Leachate Donor
+1,1,2,S,X,B,P,PV,F,57.2,Pennisetum,Competition
+1,1,2,S,X,B,P,BG,NF,280.1,Pennisetum,Competition
+1,1,2,S,Y,C,P,PV,F,87.3,Control,Competition
+1,1,2,S,Z,A,P,PV,F,57.9,Parkinsonia,Competition
+1,1,2,S,Z,A,P,PV,NF,117.9,Parkinsonia,Competition
+1,1,2,S,X,B,R,PV,F,106.3,Pennisetum,Leachate
+1,1,2,S,Y,C,R,PV,F,108.3,Control,Leachate
+1,1,2,S,Z,A,R,PV,F,128.9,Parkinsonia,Leachate
+1,1,3,S,Y,A,D,PV,NF,237.1,Parkinsonia,Leachate Donor
+1,1,3,S,Z,B,D,BG,NF,1031.1,Pennisetum,Leachate Donor
+1,1,3,S,X,C,P,PV,F,64.6,Control,Competition
+1,0,3,S,Y,A,P,PV,F,70.4,Parkinsonia,Competition
+1,1,3,S,Y,A,P,PV,NF,177,Parkinsonia,Competition
+1,1,3,S,Z,B,P,PV,F,76.8,Pennisetum,Competition
+1,1,3,S,Z,B,P,BG,NF,177.4,Pennisetum,Competition
+1,1,3,S,X,C,R,PV,F,55.1,Control,Leachate
+1,1,3,S,Y,A,R,PV,F,86.3,Parkinsonia,Leachate
+1,1,3,S,Z,B,R,PV,F,98.9,Pennisetum,Leachate
+1,1,4,S,X,A,D,PV,NF,490.3,Parkinsonia,Leachate Donor
+1,1,4,S,Y,B,D,BG,NF,1071.9,Pennisetum,Leachate Donor
+1,1,4,S,X,A,P,PV,F,35.8,Parkinsonia,Competition
+1,1,4,S,X,A,P,PV,NF,108.2,Parkinsonia,Competition
+1,1,4,S,Y,B,P,PV,F,89.3,Pennisetum,Competition
+1,1,4,S,Y,B,P,BG,NF,235.9,Pennisetum,Competition
+1,1,4,S,Z,C,P,PV,F,170.1,Control,Competition
+1,1,4,S,X,A,R,PV,F,91.7,Parkinsonia,Leachate
+0,1,4,S,Y,B,R,PV,F,49.6,Pennisetum,Leachate
+1,1,4,S,Z,C,R,PV,F,185.2,Control,Leachate
+1,1,5,S,X,B,D,BG,NF,1259.6,Pennisetum,Leachate Donor
+1,1,5,S,Z,A,D,PV,NF,446.7,Parkinsonia,Leachate Donor
+1,1,5,S,X,B,P,PV,F,113.8,Pennisetum,Competition
+1,0,5,S,X,B,P,BG,NF,0,Pennisetum,Competition
+1,1,5,S,Y,C,P,PV,F,92.8,Control,Competition
+1,1,5,S,Z,A,P,PV,F,66.4,Parkinsonia,Competition
+1,1,5,S,Z,A,P,PV,NF,167.4,Parkinsonia,Competition
+1,1,5,S,X,B,R,PV,F,118.6,Pennisetum,Leachate
+1,1,5,S,Y,C,R,PV,F,95.8,Control,Leachate
+1,1,5,S,Z,A,R,PV,F,136.6,Parkinsonia,Leachate
+1,1,6,S,Y,A,D,PV,NF,512.6,Parkinsonia,Leachate Donor
+1,1,6,S,Z,B,D,BG,NF,3185,Pennisetum,Leachate Donor
+1,1,6,S,X,C,P,PV,F,92.8,Control,Competition
+0,1,6,S,Y,A,P,PV,F,53.3,Parkinsonia,Competition
+1,1,6,S,Y,A,P,PV,NF,80,Parkinsonia,Competition
+1,0,6,S,Z,B,P,PV,F,79.3,Pennisetum,Competition
+1,1,6,S,Z,B,P,BG,NF,269.5,Pennisetum,Competition
+1,1,6,S,X,C,R,PV,F,125.2,Control,Leachate
+0,1,6,S,Y,A,R,PV,F,193.2,Parkinsonia,Leachate
+1,1,6,S,Z,B,R,PV,F,164.3,Pennisetum,Leachate
+1,1,7,S,X,A,D,PV,NF,277.4,Parkinsonia,Leachate Donor
+1,1,7,S,Y,B,D,BG,NF,960.4,Pennisetum,Leachate Donor
+1,1,7,S,X,A,P,PV,F,61.2,Parkinsonia,Competition
+1,1,7,S,X,A,P,PV,NF,93.7,Parkinsonia,Competition
+1,0,7,S,Y,B,P,PV,F,51.5,Pennisetum,Competition
+1,1,7,S,Y,B,P,BG,NF,467.6,Pennisetum,Competition
+1,1,7,S,Z,C,P,PV,F,124.1,Control,Competition
+1,1,7,S,X,A,R,PV,F,175.9,Parkinsonia,Leachate
+1,1,7,S,Y,B,R,PV,F,89.2,Pennisetum,Leachate
+1,1,7,S,Z,C,R,PV,F,72.3,Control,Leachate
+1,1,8,S,X,B,D,BG,NF,1523.8,Pennisetum,Leachate Donor
+1,1,8,S,Z,A,D,PV,NF,558.1,Parkinsonia,Leachate Donor
+1,1,8,S,X,B,P,PV,F,74.4,Pennisetum,Competition
+1,1,8,S,X,B,P,BG,NF,35.6,Pennisetum,Competition
+1,1,8,S,Y,C,P,PV,F,88.2,Control,Competition
+0,1,8,S,Z,A,P,PV,F,69.1,Parkinsonia,Competition
+1,1,8,S,Z,A,P,PV,NF,87.3,Parkinsonia,Competition
+1,1,8,S,X,B,R,PV,F,82.8,Pennisetum,Leachate
+1,1,8,S,Y,C,R,PV,F,138.1,Control,Leachate
+0,1,8,S,Z,A,R,PV,F,97.2,Parkinsonia,Leachate
+1,1,8,S,Z,A,R,CACTUS,NF,7.8,Parkinsonia,Leachate
+1,1,9,S,Y,A,D,PV,NF,214.8,Parkinsonia,Leachate Donor
+1,1,9,S,Z,B,D,BG,NF,66,Pennisetum,Leachate Donor
+1,1,9,S,X,C,P,PV,F,81,Control,Competition
+0,1,9,S,Y,A,P,PV,F,82.7,Parkinsonia,Competition
+1,1,9,S,Y,A,P,PV,NF,131.8,Parkinsonia,Competition
+1,1,9,S,Z,B,P,PV,F,78.1,Pennisetum,Competition
+1,1,9,S,Z,B,P,BG,NF,550.5,Pennisetum,Competition
+1,1,9,S,X,C,R,PV,F,103.5,Control,Leachate
+1,1,9,S,Y,A,R,PV,F,121.4,Parkinsonia,Leachate
+1,1,9,S,Z,B,R,PV,F,95.9,Pennisetum,Leachate
+1,1,10,S,X,A,D,VOLUNTEER,NF,107.3,Parkinsonia,Leachate Donor
+1,1,10,S,X,A,D,PV,NF,347,Parkinsonia,Leachate Donor
+1,1,10,S,Y,B,D,BG,NF,738.9,Pennisetum,Leachate Donor
+0,0,10,S,X,A,P,PV,F,81.8,Parkinsonia,Competition
+1,1,10,S,X,A,P,PV,NF,143.9,Parkinsonia,Competition
+1,1,10,S,Y,B,P,PV,F,109.9,Pennisetum,Competition
+1,1,10,S,Y,B,P,BG,NF,45.1,Pennisetum,Competition
+1,1,10,S,Z,C,P,PV,F,159.6,Control,Competition
+1,1,10,S,X,A,R,PV,F,84.3,Parkinsonia,Leachate
+1,1,10,S,Y,B,R,PV,F,138,Pennisetum,Leachate
+1,1,10,S,Z,C,R,PV,F,141.9,Control,Leachate
+1,1,11,S,X,B,D,BG,NF,907.8,Pennisetum,Leachate Donor
+1,1,11,S,Z,A,D,PV,NF,377.9,Parkinsonia,Leachate Donor
+1,1,11,S,X,B,P,PV,F,66.4,Pennisetum,Competition
+1,1,11,S,X,B,P,BG,NF,38.8,Pennisetum,Competition
+1,1,11,S,Y,C,P,PV,F,143.5,Control,Competition
+1,1,11,S,Z,A,P,PV,F,50.8,Parkinsonia,Competition
+1,1,11,S,Z,A,P,PV,NF,74.7,Parkinsonia,Competition
+1,1,11,S,X,B,R,PV,F,77.4,Pennisetum,Leachate
+1,1,11,S,Y,C,R,PV,F,50.8,Control,Leachate
+1,1,11,S,Z,A,R,PV,F,116.5,Parkinsonia,Leachate
+1,1,12,S,Y,A,D,PV,NF,532,Parkinsonia,Leachate Donor
+1,1,12,S,Z,B,D,BG,NF,680.8,Pennisetum,Leachate Donor
+1,1,12,S,X,C,P,PV,F,82.9,Control,Competition
+1,0,12,S,Y,A,P,PV,F,0,Parkinsonia,Competition
+1,1,12,S,Y,A,P,PV,NF,66.1,Parkinsonia,Competition
+1,1,12,S,Z,B,P,PV,F,46.7,Pennisetum,Competition
+1,1,12,S,Z,B,P,BG,NF,116.3,Pennisetum,Competition
+1,1,12,S,X,C,R,PV,F,57.3,Control,Leachate
+1,1,12,S,Y,A,R,PV,F,85.1,Parkinsonia,Leachate
+1,1,12,S,Z,B,R,PV,F,64.8,Pennisetum,Leachate
+1,1,13,S,X,A,D,PV,NF,128.8,Parkinsonia,Leachate Donor
+1,1,13,S,Y,B,D,BG,NF,58.4,Pennisetum,Leachate Donor
+1,1,13,S,X,A,P,PV,F,71.2,Parkinsonia,Competition
+1,1,13,S,X,A,P,PV,NF,112.3,Parkinsonia,Competition
+1,1,13,S,Y,B,P,PV,F,103.1,Pennisetum,Competition
+1,1,13,S,Y,B,P,PV,NF,656.8,Pennisetum,Competition
+1,1,13,S,Z,C,P,PV,F,45,Control,Competition
+1,1,13,S,X,A,R,PV,F,139.3,Parkinsonia,Leachate
+1,1,13,S,Y,B,R,PV,F,95.6,Pennisetum,Leachate
+1,1,13,S,Z,C,R,PV,F,78.1,Control,Leachate
+1,1,14,S,X,B,D,BG,NF,653.9,Pennisetum,Leachate Donor
+1,1,14,S,Z,A,D,PV,NF,408.8,Parkinsonia,Leachate Donor
+1,1,14,S,X,B,P,BG,F,98.9,Pennisetum,Competition
+1,1,14,S,X,B,P,BG,NF,426.7,Pennisetum,Competition
+1,1,14,S,Y,C,P,PV,F,155.9,Control,Competition
+0,1,14,S,Z,A,P,PV,F,45.4,Parkinsonia,Competition
+1,1,14,S,Z,A,P,PV,NF,100,Parkinsonia,Competition
+1,1,14,S,X,B,R,PV,F,118.8,Pennisetum,Leachate
+1,1,14,S,Y,C,R,PV,F,93.3,Control,Leachate
+1,1,14,S,Z,A,R,PV,F,151.2,Parkinsonia,Leachate
+1,1,15,S,Y,A,D,PV,NF,454,Parkinsonia,Leachate Donor
+1,1,15,S,Z,B,D,BG,NF,40.1,Pennisetum,Leachate Donor
+0,1,15,S,X,C,P,PV,F,60.6,Control,Competition
+1,1,15,S,Y,A,P,PV,F,33.5,Parkinsonia,Competition
+1,1,15,S,Y,A,P,PV,NF,129.4,Parkinsonia,Competition
+1,1,15,S,Z,B,P,PV,F,90.3,Pennisetum,Competition
+1,1,15,S,Z,B,P,BG,NF,423.5,Pennisetum,Competition
+1,1,15,S,X,C,R,PV,F,83.9,Control,Leachate
+1,1,15,S,Y,A,R,PV,F,68.9,Parkinsonia,Leachate
+1,1,15,S,Z,B,R,PV,F,116.3,Pennisetum,Leachate
+1,1,16,S,X,A,D,PV,NF,337.8,Parkinsonia,Leachate Donor
+1,1,16,S,Y,B,D,BG,NF,630.5,Pennisetum,Leachate Donor
+1,1,16,S,X,A,P,PV,F,36.1,Parkinsonia,Competition
+1,1,16,S,X,A,P,PV,NF,234.3,Parkinsonia,Competition
+1,1,16,S,Y,B,P,PV,F,90.5,Pennisetum,Competition
+1,1,16,S,Y,B,P,BG,NF,160.1,Pennisetum,Competition
+1,1,16,S,Z,C,P,PV,F,100,Control,Competition
+1,1,16,S,X,A,R,PV,F,106.2,Parkinsonia,Leachate
+1,1,16,S,Y,B,R,PV,F,120.7,Pennisetum,Leachate
+1,1,16,S,Z,C,R,PV,F,120.1,Control,Leachate
+1,1,17,N,X,B,D,BG,NF,795.6,Pennisetum,Leachate Donor
+1,1,17,N,Z,A,D,PV,NF,525.6,Parkinsonia,Leachate Donor
+0,1,17,N,X,B,P,PV,F,102.2,Pennisetum,Competition
+1,1,17,N,X,B,P,BG,NF,5.7,Pennisetum,Competition
+1,1,17,N,Y,C,P,PV,F,108.4,Control,Competition
+0,NA,17,N,Z,A,P,PV,F,46.5,Parkinsonia,Competition
+1,1,17,N,Z,A,P,PV,NF,161.7,Parkinsonia,Competition
+1,1,17,N,X,B,R,PV,F,111.2,Pennisetum,Leachate
+1,1,17,N,Y,C,R,PV,F,115.8,Control,Leachate
+1,1,17,N,Z,A,R,PV,F,64.8,Parkinsonia,Leachate
+1,11,18,N,Y,A,D,PV,NF,463,Parkinsonia,Leachate Donor
+1,1,18,N,Z,B,D,BG,NF,721.4,Pennisetum,Leachate Donor
+1,1,18,N,X,C,P,PV,F,97.6,Control,Competition
+0,1,18,N,Y,A,P,PV,F,34.3,Parkinsonia,Competition
+1,1,18,N,Y,A,P,PV,NF,53.7,Parkinsonia,Competition
+1,1,18,N,Z,B,P,PV,F,57.3,Pennisetum,Competition
+1,1,18,N,Z,B,P,BG,NF,73.7,Pennisetum,Competition
+1,1,18,N,X,C,R,PV,F,123.1,Control,Leachate
+1,1,18,N,Y,A,R,PV,F,109.2,Parkinsonia,Leachate
+1,0,18,N,Z,B,R,PV,F,63.5,Pennisetum,Leachate
+1,1,19,N,X,A,D,PV,NF,521.3,Parkinsonia,Leachate Donor
+1,1,19,N,Y,B,D,BG,NF,201.6,Pennisetum,Leachate Donor
+0,0,19,N,X,A,P,PV,F,0,Parkinsonia,Competition
+0,1,19,N,X,A,P,PV,NF,285.2,Parkinsonia,Competition
+1,1,19,N,Y,B,P,PV,F,46,Pennisetum,Competition
+1,1,19,N,Y,B,P,BG,NF,282.4,Pennisetum,Competition
+1,1,19,N,Z,C,P,PV,F,146.3,Control,Competition
+1,1,19,N,Z,C,P,CACTUS,NF,3,Control,Competition
+1,1,19,N,X,A,R,PV,F,135.7,Parkinsonia,Leachate
+1,1,19,N,Y,B,R,PV,F,78.9,Pennisetum,Leachate
+1,1,19,N,Z,C,R,PV,F,57,Control,Leachate
+1,1,20,N,X,B,D,BG,NF,61.5,Pennisetum,Leachate Donor
+1,1,20,N,Z,A,D,PV,NF,440.2,Parkinsonia,Leachate Donor
+1,1,20,N,X,B,P,PV,F,74.3,Pennisetum,Competition
+1,1,20,N,X,B,P,BG,NF,178.1,Pennisetum,Competition
+1,1,20,N,Y,C,P,PV,F,107.8,Control,Competition
+1,1,20,N,Z,A,P,PV,F,68.1,Parkinsonia,Competition
+1,1,20,N,Z,A,P,PV,NF,141.8,Parkinsonia,Competition
+1,1,20,N,X,B,R,PV,F,116.1,Pennisetum,Leachate
+1,1,20,N,Y,C,R,PV,F,87.1,Control,Leachate
+1,1,20,N,Z,A,R,PV,F,67,Parkinsonia,Leachate
+1,1,21,N,Y,A,D,PV,NF,416.7,Parkinsonia,Leachate Donor
+1,1,21,N,Z,B,D,BG,NF,622.9,Pennisetum,Leachate Donor
+1,1,21,N,X,C,P,PV,F,159.5,Control,Competition
+1,1,21,N,Y,A,P,PV,F,102.6,Parkinsonia,Competition
+1,1,21,N,Y,A,P,PV,NF,136.1,Parkinsonia,Competition
+1,1,21,N,Z,B,P,PV,F,112.7,Pennisetum,Competition
+1,1,21,N,Z,B,P,BG,NF,27,Pennisetum,Competition
+1,1,21,N,X,C,R,PV,F,113.4,Control,Leachate
+1,1,21,N,Y,A,R,PV,F,108.4,Parkinsonia,Leachate
+1,1,21,N,Z,B,R,PV,F,96.5,Pennisetum,Leachate
+1,1,22,N,X,A,D,PV,NF,556.5,Parkinsonia,Leachate Donor
+1,1,22,N,Y,B,D,BG,NF,404.4,Pennisetum,Leachate Donor
+1,0,22,N,X,A,P,PV,F,47.1,Parkinsonia,Competition
+1,1,22,N,X,A,P,PV,NF,70.3,Parkinsonia,Competition
+1,1,22,N,Y,B,P,PV,F,93.2,Pennisetum,Competition
+0,1,22,N,Y,B,P,BG,NF,8.9,Pennisetum,Competition
+1,1,22,N,Z,C,P,PV,F,57.8,Control,Competition
+1,1,22,N,X,A,R,PV,F,116,Parkinsonia,Leachate
+1,1,22,N,Y,B,R,PV,F,63,Pennisetum,Leachate
+1,1,22,N,Z,C,R,PV,F,67.5,Control,Leachate
+1,1,23,N,X,B,D,BG,NF,16.6,Pennisetum,Leachate Donor
+1,1,23,N,Z,A,D,PV,NF,420.9,Parkinsonia,Leachate Donor
+1,1,23,N,X,B,P,PV,F,97.2,Pennisetum,Competition
+0,1,23,N,X,B,P,BG,NF,6.3,Pennisetum,Competition
+0,1,23,N,Y,C,P,PV,F,54.8,Control,Competition
+0,NA,23,N,Z,A,P,PV,F,0,Parkinsonia,Competition
+0,1,23,N,Z,A,P,PV,NF,66.1,Parkinsonia,Competition
+1,1,23,N,X,B,R,PV,F,67.8,Pennisetum,Leachate
+1,1,23,N,Y,C,R,PV,F,71.4,Control,Leachate
+1,1,23,N,Z,A,R,PV,F,79.4,Parkinsonia,Leachate
+1,1,24,N,Y,A,D,PV,NF,338.6,Parkinsonia,Leachate Donor
+1,1,24,N,Z,B,D,BG,NF,158.2,Pennisetum,Leachate Donor
+1,1,24,N,X,C,P,PV,F,56.6,Control,Competition
+1,1,24,N,Y,A,P,PV,F,74.1,Parkinsonia,Competition
+1,1,24,N,Y,A,P,PV,NF,129.2,Parkinsonia,Competition
+1,1,24,N,Z,B,P,PV,F,93,Pennisetum,Competition
+1,1,24,N,Z,B,P,BG,NF,208.8,Pennisetum,Competition
+1,1,24,N,X,C,R,PV,F,95.7,Control,Leachate
+1,1,24,N,Y,A,R,PV,F,79.5,Parkinsonia,Leachate
+1,1,24,N,Z,B,R,PV,F,38.2,Pennisetum,Leachate
+1,1,25,N,X,A,D,PV,NF,392.1,Parkinsonia,Leachate Donor
+1,1,25,N,Y,B,D,BG,NF,524.2,Pennisetum,Leachate Donor
+0,NA,25,N,X,A,P,PV,F,0,Parkinsonia,Competition
+1,1,25,N,X,A,P,PV,NF,186.9,Parkinsonia,Competition
+1,1,25,N,Y,B,P,PV,F,53.4,Pennisetum,Competition
+0,1,25,N,Y,B,P,BG,NF,10.2,Pennisetum,Competition
+0,1,25,N,Z,C,P,PV,F,82.6,Control,Competition
+1,1,25,N,X,A,R,PV,F,103.3,Parkinsonia,Leachate
+1,1,25,N,Y,B,R,PV,F,87.7,Pennisetum,Leachate
+0,1,25,N,Z,C,R,PV,F,91.6,Control,Leachate
+1,1,26,N,X,B,D,BG,NF,47.5,Pennisetum,Leachate Donor
+1,1,26,N,Z,A,D,PV,NF,474.2,Parkinsonia,Leachate Donor
+1,1,26,N,X,B,P,PV,F,132.1,Pennisetum,Competition
+1,1,26,N,X,B,P,BG,NF,44.3,Pennisetum,Competition
+1,1,26,N,Y,C,P,PV,F,59.9,Control,Competition
+1,1,26,N,Z,A,P,PV,F,57.2,Parkinsonia,Competition
+1,1,26,N,Z,A,P,PV,NF,150.8,Parkinsonia,Competition
+1,1,26,N,X,B,R,PV,F,85.3,Pennisetum,Leachate
+1,1,26,N,Y,C,R,PV,F,77.6,Control,Leachate
+1,1,26,N,Z,A,R,PV,F,125.8,Parkinsonia,Leachate
+1,1,27,N,Y,A,D,PV,NF,573.7,Parkinsonia,Leachate Donor
+1,1,27,N,Z,B,D,BG,NF,82.7,Pennisetum,Leachate Donor
+1,1,27,N,X,C,P,PV,F,124.8,Control,Competition
+0,0,27,N,Y,A,P,PV,F,0,Parkinsonia,Competition
+1,1,27,N,Y,A,P,PV,NF,224.4,Parkinsonia,Competition
+1,1,27,N,Z,B,P,PV,F,91,Pennisetum,Competition
+1,1,27,N,Z,B,P,BG,NF,112.6,Pennisetum,Competition
+1,1,27,N,X,C,R,PV,F,57.7,Control,Leachate
+1,1,27,N,Y,A,R,PV,F,79.5,Parkinsonia,Leachate
+0,NA,27,N,Z,B,R,PV,F,0,Pennisetum,Leachate
+1,1,28,N,X,A,D,PV,NF,290.6,Parkinsonia,Leachate Donor
+1,1,28,N,Y,B,D,BG,NF,360.4,Pennisetum,Leachate Donor
+0,1,28,N,X,A,P,PV,F,10.5,Parkinsonia,Competition
+1,1,28,N,X,A,P,PV,NF,120.6,Parkinsonia,Competition
+1,1,28,N,Y,B,P,PV,F,88.5,Pennisetum,Competition
+1,1,28,N,Y,B,P,BG,NF,114.5,Pennisetum,Competition
+1,1,28,N,Z,C,P,PV,F,105.4,Control,Competition
+1,1,28,N,X,A,R,PV,F,59.5,Parkinsonia,Leachate
+1,0,28,N,X,B,R,PV,F,80,Pennisetum,Leachate
+1,1,28,N,Z,C,R,PV,F,37,Control,Leachate
+1,1,29,N,X,B,D,BG,NF,93.4,Pennisetum,Leachate Donor
+1,1,29,N,Z,A,D,PV,NF,39.5,Parkinsonia,Leachate Donor
+0,1,29,N,X,B,P,PV,F,79,Pennisetum,Competition
+1,1,29,N,X,B,P,BG,NF,5.5,Pennisetum,Competition
+1,1,29,N,Y,C,P,PV,F,89.2,Control,Competition
+0,0,29,N,Z,A,P,PV,F,0,Parkinsonia,Competition
+1,1,29,N,Z,A,P,PV,NF,54.7,Parkinsonia,Competition
+1,1,29,N,X,B,R,PV,F,72.2,Pennisetum,Leachate
+1,1,29,N,Y,C,R,PV,F,78.1,Control,Leachate
+1,1,29,N,Z,A,R,PV,F,65.9,Parkinsonia,Leachate
+1,1,30,N,Y,A,D,PV,NF,659.9,Parkinsonia,Leachate Donor
+1,1,30,N,Z,B,D,BG,NF,90.3,Pennisetum,Leachate Donor
+1,1,30,N,X,C,P,PV,F,63.9,Control,Competition
+1,0,30,N,Y,A,P,PV,F,20.9,Parkinsonia,Competition
+1,1,30,N,Y,A,P,PV,NF,50.3,Parkinsonia,Competition
+0,1,30,N,Z,B,P,PV,F,76.6,Pennisetum,Competition
+1,1,30,N,Z,B,P,BG,NF,9.5,Pennisetum,Competition
+1,1,30,N,X,C,R,PV,F,50.2,Control,Leachate
+1,1,30,N,Y,A,R,PV,F,58.9,Parkinsonia,Leachate
+1,1,30,N,Z,B,R,PV,F,78.1,Pennisetum,Leachate
+1,1,31,N,X,A,D,PV,NF,197,Parkinsonia,Leachate Donor
+1,1,31,N,Y,B,D,BG,NF,166,Pennisetum,Leachate Donor
+0,NA,31,N,X,A,P,PV,F,0,Parkinsonia,Competition
+1,1,31,N,X,A,P,PV,NF,125.7,Parkinsonia,Competition
+1,1,31,N,Y,B,P,PV,F,141.9,Pennisetum,Competition
+1,1,31,N,Y,B,P,BG,NF,173.1,Pennisetum,Competition
+1,1,31,N,Z,C,P,PV,F,99,Control,Competition
+1,0,31,N,X,A,R,PV,F,84.9,Parkinsonia,Leachate
+1,1,31,N,Y,B,R,PV,F,102.3,Pennisetum,Leachate
+1,1,31,N,Z,C,R,PV,F,73.8,Control,Leachate
+1,1,32,N,X,B,D,BG,NF,680.2,Pennisetum,Leachate Donor
+1,1,32,N,Z,A,D,PV,NF,447.2,Parkinsonia,Leachate Donor
+1,1,32,N,X,B,P,PV,F,81.8,Pennisetum,Competition
+1,1,32,N,X,B,P,BG,NF,17.7,Pennisetum,Competition
+1,1,32,N,Y,C,P,PV,F,79,Control,Competition
+0,NA,32,N,Z,A,P,PV,F,0,Parkinsonia,Competition
+1,1,32,N,Z,A,P,PV,NF,103.3,Parkinsonia,Competition
+1,1,32,N,X,B,R,PV,F,110.9,Pennisetum,Leachate
+1,1,32,N,Y,C,R,PV,F,98.2,Control,Leachate
+1,1,32,N,Z,A,R,PV,F,101.9,Parkinsonia,Leachate
